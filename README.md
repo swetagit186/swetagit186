@@ -1,6 +1,4 @@
-![Header GIF](assets/GitHub-Banner.gif)
 
-<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Vishalk91-4&&style=flat-square" align="center" />
