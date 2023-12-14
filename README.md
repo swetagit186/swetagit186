@@ -21,7 +21,6 @@
 
 - 📫 Reach me at `sweta.kumari.eee22@itbhu.ac.in` 
 
-//- ⚡ Fun fact: I like repeatin.//
 
 <br/>
 
@@ -47,13 +46,6 @@
     </b>
 </p>
 
----
 
-<a href="mailto:sweta.kumari.eee22@itbhu.ac.in">
-    <img height="32" align="left" alt="Mail" src="assets/img/icons/gmail.png" />
-</a>
 
-<a href="https://www.linkedin.com/in/sweta-kumari-980136258/">
-    <img height="32" align="left" alt="LinkedIn" src="assets/img/icons/linkedin.png" />
-</a>
 
