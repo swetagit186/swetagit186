@@ -1,11 +1,11 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Vishalk91-4&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=swetagit186&&style=flat-square" align="center" />
 &nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DVishalk91-4&longCache=true" align="center" />
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dswetagit186&longCache=true" align="center" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/Vishalk91-4?label=Stars" alt="stars" align="center">
+<img src="https://img.shields.io/github/stars/swetagit186?label=Stars" alt="stars" align="center">
 </div>
 
 ## 💫 About Me:
