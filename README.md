@@ -15,7 +15,7 @@
 
 - ☸️ I have a keen interest in `Open Source` and `Web Development`.
 
-- 🔭 I’m currently involved into `Open Source Contribution, projects and DSA`.
+- 🔭 I’m currently involved into `Open Source Contribution, Development Projects and DSA`.
 
 - 🍀 Ask me about anything related to `MERN stack` and related technologies.
 
