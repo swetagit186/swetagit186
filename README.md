@@ -5,8 +5,8 @@
 &nbsp;
 <!-- <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dswetagit186&longCache=true" align="center" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/swetagit186?label=Stars" alt="stars" align="center">
-</div> -->
+<img src="https://img.shields.io/github/stars/swetagit186?label=Stars" alt="stars" align="center"> -->
+</div>
 
 ## 💫 About Me:
 ### <div align="center">Hello,I'm Sweta Kumari.A MERN Stack Web Developer. </div>
