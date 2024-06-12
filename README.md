@@ -11,7 +11,7 @@
 ## 💫 About Me:
 ### <div align="center">Hello,I'm Sweta Kumari.A MERN Stack Web Developer. </div>
 
-- 🧑🏻‍🎓I am Sophomore at `Indian Institute of Technology BHU (Varanasi)` pursuing B.Tech in Electrical Engineering.
+- 🧑🏻‍🎓I am pre-final year student at `Indian Institute of Technology BHU (Varanasi)` pursuing B.Tech in Electrical Engineering.
 
 - ☸️ I have a keen interest in `Open Source` and `Web Development`.
 
